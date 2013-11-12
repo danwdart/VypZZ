@@ -1,0 +1,11 @@
+{
+	"name": "VypZZ",
+	"version": "0.0.1",
+	"author": "Dan Dart <code@dandart.co.uk>",
+	"description": "HTML Text Editor etc.",
+	"dependencies": {
+		"express": "*",
+		"consolidate": "*",
+		"mustache": "*"
+	}
+}
