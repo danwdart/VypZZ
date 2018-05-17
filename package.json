@@ -4,10 +4,10 @@
   "author": "Dan Dart <code@dandart.co.uk>",
   "description": "HTML Text Editor etc.",
   "dependencies": {
-    "consolidate": "*",
-    "express": "*",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
     "mustache": "*",
-    "snyk": "^1.69.5"
+    "snyk": "^1.80.1"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
