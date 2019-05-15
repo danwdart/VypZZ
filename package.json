@@ -5,9 +5,9 @@
   "description": "HTML Text Editor etc.",
   "dependencies": {
     "consolidate": "^0.15.1",
-    "express": "^4.16.3",
+    "express": "^4.16.4",
     "mustache": "*",
-    "snyk": "^1.82.1"
+    "snyk": "^1.165.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
