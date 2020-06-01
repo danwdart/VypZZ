@@ -7,7 +7,7 @@
     "consolidate": "^0.15.1",
     "express": "^5.0.0-alpha.8",
     "mustache": "*",
-    "snyk": "^1.332.1"
+    "snyk": "^1.334.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
