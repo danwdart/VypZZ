@@ -21,7 +21,7 @@ app.use(express.static('public'));
 
 app.engine('mustache', cons.mustache);
 app.set('view engine', 'mustache');
-app.set('views', __dirname + '/templates');	
+app.set('views', __dirname + '/templates');
 
 app.get('/', function(req, res) {
     res.sendFile(__dirname + '/public/index.html');
