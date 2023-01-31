@@ -14,5 +14,8 @@
     "prepublish": "npm run snyk-protect",
     "prepare": "npm run snyk-protect"
   },
-  "snyk": true
+  "snyk": true,
+  "devDependencies": {
+    "@snyk/protect": "^1.1092.0"
+  }
 }
