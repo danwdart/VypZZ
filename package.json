@@ -4,7 +4,7 @@
   "author": "Dan Dart <code@dandart.co.uk>",
   "description": "HTML Text Editor etc.",
   "dependencies": {
-    "consolidate": "^1.0.3",
+    "consolidate": "^1.0.4",
     "express": "^4.19.2",
     "mustache": "*"
   },
@@ -15,6 +15,6 @@
   },
   "snyk": true,
   "devDependencies": {
-    "@snyk/protect": "^1.1268.0"
+    "@snyk/protect": "^1.1292.1"
   }
 }
