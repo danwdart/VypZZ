@@ -5,7 +5,7 @@
   "description": "HTML Text Editor etc.",
   "dependencies": {
     "consolidate": "^1.0.4",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "mustache": "*"
   },
   "scripts": {
